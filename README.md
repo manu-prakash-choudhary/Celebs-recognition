@@ -1,0 +1,1 @@
+This is another machine learning project made by the tutorials of codebasics and this is really a kind of project about which we can flex in our circle 😁, despite of its coolness it is also very easy to understand 
