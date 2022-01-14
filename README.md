@@ -1,1 +1,3 @@
-This is another machine learning project made by the tutorials of codebasics and this is really a kind of project about which we can flex in our circle 😁, despite of its coolness it is also very easy to understand 
+This is another machine learning project made with the help of tutorials and this is really a kind of project about which helps us understand use of ML in real life and the problems occur in each step from data cleaning to model training, despite of these things it is also very easy to understand.
+I have created a simple webpage on which you just have to give some basic info about property such as BHK, by that only you can calculate the price you gonna be cost for that house.
+![Screenshot (37)](https://user-images.githubusercontent.com/74171135/149460127-75db90d6-5bb3-465c-acf5-ea145c1476b1.png)
