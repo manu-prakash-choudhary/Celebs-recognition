@@ -1,6 +1,6 @@
 <h1 align="center">Facial Image Classification</h1>
 <p align="center">
-![image](https://user-images.githubusercontent.com/74171135/231318037-e16e5913-278c-49b3-a976-ee4c29115dd6.png)
+<img align="center" src="./banner.jpg" width="100%"/>
 
 </p>
 
@@ -12,7 +12,7 @@
 
 <h2> Working Demonstration </h2>
 
-![image](https://user-images.githubusercontent.com/74171135/231317930-8c201023-7574-4dbe-bfff-36b51d0175bf.png)
+<img src="./demo.gif" />
 
 <p>
   I have used Haar Cascade Classifier and Wavelet Transform to detect faces in the images.  Then after preprocessing the datasets, I tested my model on various classifiers(SVM, Logistic Regression,Random Forest). Then I have used the best performing model to predict the names of the faces detected in the images.
