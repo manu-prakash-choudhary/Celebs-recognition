@@ -1,5 +1,55 @@
-This is another machine learning project made with the help of tutorials and this is really a kind of project about which helps us understand use of ML in real life and the problems occur in each step from data cleaning to model training, despite of these things it is also very easy to understand.
-This project lets you classify the image of five famous personalities i.e. Virat Kholi, Roger Federer, Maria Sharapova, Lionel Messi and Serena Williams.
-<br> <br>
+<h1 align="center">Facial Image Classification</h1>
+<p align="center">
+  <img align="center" src="./Assets/banner.jpg" width="100%"/>
+</p>
 
-![Screenshot (38)](https://user-images.githubusercontent.com/74171135/149464244-ac12df3a-a2e3-4c6a-ab16-0fe6acc16fbc.png)
+<p align="center">
+  In this project, one or more human faces are detected through images and name predictions are made for those faces detected by AI models trained in the background.
+<p>
+
+---
+
+<h2> Working Demonstration </h2>
+
+<img src="./Assets/demo.gif" />
+
+<p>
+  I have used Haar Cascade Classifier and Wavelet Transform to detect faces in the images.  Then after preprocessing the datasets, I tested my model on various classifiers(SVM, Logistic Regression,Random Forest). Then I have used the best performing model to predict the names of the faces detected in the images.
+</p>
+
+---
+
+<h2> Usage </h2>
+
+<p>
+  To run this project, you need to have Python 3.6 or above installed on your system. Then you can clone this repository and install the required libraries using the following command [/Model directory]:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then you can activate the flask server using the following command [/Server directory]:
+
+```bash
+python server.py
+```
+
+Then you can run the application by opening the index.html file in the browser [/UI directory].
+
+</p>
+
+---
+
+<h2>Features</h2>
+
+- [x] Detect faces in images
+- [x] User friendly UI
+- [x] Predict names of the faces detected
+- [ ] Deploy the model on the web
+
+---
+
+<h4>License</h4>
+
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
+HyperWrite Logo
