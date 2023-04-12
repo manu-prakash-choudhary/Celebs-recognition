@@ -1,6 +1,7 @@
 <h1 align="center">Facial Image Classification</h1>
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/74171135/231317910-75130f1c-835a-4717-a89a-ebe53dc6e071.png)
+![image](https://user-images.githubusercontent.com/74171135/231318037-e16e5913-278c-49b3-a976-ee4c29115dd6.png)
+
 </p>
 
 <p align="center">
