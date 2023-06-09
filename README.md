@@ -53,4 +53,4 @@ Then you can run the application by opening the index.html file in the browser [
 <h4>License</h4>
 
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
-HyperWrite Logo
+HyperWrite Logo.
